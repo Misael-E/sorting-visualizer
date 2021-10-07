@@ -1,0 +1,18 @@
+.bars-container {
+	text-align: center;
+	margin: 0 auto;
+	min-width: 90%;
+	min-height: 50vh;
+}
+
+.bar {
+	background-color: pink;
+	color: #282c34;
+	display: inline-block;
+	font-weight: bold;
+	margin: 0 2px;
+	text-align: center;
+	transition-duration: 10ms;
+	transition-property: height;
+	transition-timing-function: ease-in;
+}

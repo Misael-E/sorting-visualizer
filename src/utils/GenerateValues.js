@@ -1,4 +1,4 @@
-const generateRandomValues = ({ arraySize }) => {
+const generateRandomValues = (arraySize) => {
 	let randomizedArray = [];
 
 	for (let i = 0; i < arraySize; i++) {
